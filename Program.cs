@@ -1,8 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Bertioga");
-Console.WriteLine("Cudatão");
+﻿Console.WriteLine("Bertioga");
+Console.WriteLine("Cananéia");
+Console.WriteLine("Cubatão");
 Console.WriteLine("Guarujá");
-Console.WriteLine("Bertioga");
-Console.WriteLine("Bertioga");
-Console.WriteLine("Bertioga");
-Console.WriteLine("Bertioga");
+Console.WriteLine("Iguape");
+Console.WriteLine("Ilha Comprida");
+Console.WriteLine("Itanhaém");
+Console.WriteLine("Mongaguá");
+Console.WriteLine("Peruíbe");
+Console.WriteLine("Praia Grande");
+Console.WriteLine("Santos");
+Console.WriteLine("São Vicente");
